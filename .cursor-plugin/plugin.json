@@ -1,0 +1,22 @@
+{
+  "name": "notta",
+  "displayName": "Notta – AI Meeting Notes",
+  "version": "1.0.0",
+  "description": "Search Notta meeting records, read transcripts and existing summaries, export content, and manage records.",
+  "author": {
+    "name": "Notta PTE. LTD."
+  },
+  "homepage": "https://www.notta.ai/en",
+  "keywords": [
+    "notta",
+    "meetings",
+    "transcripts",
+    "summaries",
+    "productivity",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json",
+  "license": "MIT",
+  "repository": "https://github.com/mindcruiser/notta-connector-cursor"
+}

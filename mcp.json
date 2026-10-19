@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "notta": {
+      "url": "https://mcp.notta.io/mcp",
+      "auth": {
+        "CLIENT_ID": "c_j7uksddnma8z61b7"
+      }
+    }
+  }
+}

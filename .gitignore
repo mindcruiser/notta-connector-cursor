@@ -1,0 +1,14 @@
+# Local editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Local credentials, private review materials, and build outputs
+.env
+.env.*
+*.local.*
+submission/
+dist/
+node_modules/
